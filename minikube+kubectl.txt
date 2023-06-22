@@ -1,0 +1,15 @@
+kubectl 
+
+https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+
+
+minikube
+
+https://minikube.sigs.k8s.io/docs/start/
+
+sudo apt install docker.io
+add user to docker group
+minikube start --driver=docker
+
+ubuntu OS
+Taken t2.medium
